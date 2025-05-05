@@ -31,7 +31,8 @@
 
 ## Результат работы
 
-![Пример дашборда](https://github.com/user-attachments/assets/d869bf9e-c308-43a5-8702-470fab2403c8)
+![Пример дашборда](https://github.com/user-attachments/assets/bd90f78b-5a51-4a78-9d29-4c8e72d94a3b)
+
 [Открыть](https://datalens.yandex.cloud/o1wojcd4pk9oa) дашборд в YandexDataLens
 ## Что в планах
 - Разделение по типу компаний или отраслям
