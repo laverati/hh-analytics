@@ -32,7 +32,7 @@
 ## Результат работы
 
 ![Пример дашборда](https://github.com/user-attachments/assets/d869bf9e-c308-43a5-8702-470fab2403c8)
-
+[Открыть](https://datalens.yandex.cloud/o1wojcd4pk9oa) дашборд в YandexDataLens
 ## Что в планах
 - Разделение по типу компаний или отраслям
 - Усложнение формул в дашборде
